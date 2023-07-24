@@ -51,8 +51,8 @@ This project is licensed under the MIT License - see the **LICENSE** file for de
 
 If you have any questions or inquiries, please contact the project maintainers at:
 
-Email: vaarun.2001@gmail.com
-GitHub: varunupadhayay
+-Email: vaarun.2001@gmail.com
+-GitHub: varunupadhayay
 
 
 
