@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/cryptoverse/static/css/main.0eaed9fa.css",
+    "main.js": "/cryptoverse/static/js/main.e2eeb192.js",
+    "index.html": "/cryptoverse/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.0eaed9fa.css",
+    "static/js/main.e2eeb192.js"
+  ]
+}
