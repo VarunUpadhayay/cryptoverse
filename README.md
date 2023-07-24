@@ -49,10 +49,7 @@ This project is licensed under the MIT License - see the **LICENSE** file for de
 
 ## Contact
 
-If you have any questions or inquiries, please contact the project maintainers at:
-
-- Email: vaarun.2001@gmail.com
-- GitHub: varunupadhayay
+If you have any questions, suggestions, or feedback, feel free to reach out to the owner of Sphere Art, Varun Upadhayay, through their GitHub profile.
 
 
 
