@@ -49,7 +49,7 @@ This project is licensed under the MIT License - see the **LICENSE** file for de
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, feel free to reach out to the owner of Sphere Art, Varun Upadhayay, through their GitHub profile.
+If you have any questions, suggestions, or feedback, feel free to reach out to the owner of Crypto Verse, Varun Upadhayay, through their GitHub profile.
 
 
 
